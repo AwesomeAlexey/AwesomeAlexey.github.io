@@ -1,15 +1,15 @@
-fullname: Andrey Marakulin
+fullname: Alexey Konstantinov
 favicon: /assets/images/favicon.svg
 logo: /assets/images/photo.png
 
 show_info: true
-age: 23 y.o.
+age: 21 y.o.
 location: Sirius, Russia
 language: Russian, English
 
 show_contacts: true
-mailto: mailto:annndruha.github@gmail.com
-cv_pdf_link: https://raw.githubusercontent.com/Annndruha/annndruha.github.io/main/pdf/cv_pdf.pdf
+mailto: mailto:konstantinov.py@gmail.com
+cv_pdf_link: https://raw.githubusercontent.com/AwesomeAlexey/AwesomeAlexey.github.io/main/pdf/cv_pdf.pdf
 
 remote_theme: annndruha/minimal-resume
 plugins:

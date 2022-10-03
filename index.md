@@ -1,72 +1,91 @@
 # <a id="education" href="#education">🎓 Education</a>
 
-* ### University of Tyumen
-    (Tyumen) Physical Faculty, Technical physics
-
-* ### Lomonosov Moscow State University
-    (Moscow) Faculty of Physics, department of particles physics
+* ### Peter the Great St.Petersburg Polytechnic University
+    (Saint-Petersburg) Mechatronics and Robotics, Autonomous robots
 
 * ### Sirius University of Science and Technology
-    (Adler Microdistrict) Mathematical Robotics and Artificial Intelligence
+    (Sochi) Mathematical Robotics and Artificial Intelligence
 
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
+
+* ### Python, C++, C
+
+    Main programming languages
+    
+
+* ### Computer vision, OpenCV, YOLO
+
+    Object detection, Stereo vision, Structure-from-motion, etc.
+    
+    
 * ### TensorFlow, Deep Learning, Machine Learning
 
-    Image recognition, classification, generative nets etc.
+    CV applications, Natural language processing, etc.
 
-* ### Computer vision, OpenCV, OpenGL
+    
+* ### Robot Operating System (ROS)
 
-    Art application, detection, real-time recognition
+    CV, Autonomous navigation, etc.
+    
+    
+* ### Servers, Git, VPN, Linux, Docker, MongoDB
 
-* ### 3D-modeling, Autodesk Fusion 360, Adobe PS, Corel Draw
+    Launch, support, API-development, Every-day-use
 
-    Airplanes models, parts-modeling, layouts, laser cutting
+    
+* ### Embedded systems developing
 
-* ### Servers, Git, Mercurial, Linux, Docker, PostgreSQL
+    STM32, NRF24, ESP8266, NVIDIA Jetson, Arduino
 
-    Launch, support, systemization, API-development
 
-* ### Microcontrollers programming
 
-    Arduino, Raspberry controllers, device creation
+* ### CAD & CNC, Electrionics, PCB developing
+
+    3D-modeling and 3D-printing, Laser cutting, Milling, Practical skills
+
 
 # <a id="works" href="#works">👨🏻‍💻 Work experience</a>
 
-* ### Tutor of microcontrollers programming
 
-    *Initiative Creativity Center of the Youth "FabLab UTMN" (Tyumen, Russia)*
-
-    Tutor for programming microcontrollers and development of high-tech devices for children aged 12-15 years. Project Leader, I read a course on programming in C++, binary logic, and practical applications.
-
-* ### Tutor of C++ and Python programming languages
+* ### Tutor of C++ & Python programming languages
 
     *Freelance*
+    
+    Teaching the students (high-school students, university students and graduates) a programming languages from zero to hero, project assistance and support.
+    
+    
+* ### Embedded systems developer
 
-    Assistance to children, high school students, university students and graduates with the development of courses in programming languages, helps with term paper and thesis writing.
+    *Freelance*
+    
+    Developing a firmware for such devices as radio transceivers, special equipment, control systems etc.
 
-* ### Python developer, Deep Learning Engineer
+    
+* ### Team-Lead in FabLab
 
-    *Center of Engineering Physics at Lomonosov Moscow State University*
+    *Youth Project Activity Center "FabLab Polytech" (St.-Petersburg)*
 
-    Working on “EyePoint P10” - a signature analysis system. EyePoint P10 aims to detect faulty electronic components on printed circuit boards. My respon-sibilities are write Python code, fix bugs, working on architecture and use deep neural networks for electronic components recognition.
+    Tutor of programming STM32 microcontrollers, 3D-Modeling and 3D-printing, Theoretical mechanics for BioMechanic applications for university students, participating competitions (such as WorldSkills), etc.
+    
 
+* ### Python Developer
+    
+    *Freelance*
+    
+    Developing a Python-based projects, such as CV projects, chat-bots, etc.
+    
 
-* ### Teacher of neural networks courses
+# <a id="projects" href="#projects">🧩 Projects</a>
 
-    *Faculty of Physics, Lomonosov Moscow State University*
+* ### Closed-Source projects (can be discussed on the interview)
 
-    I teach a one-year course on neural networks and machine learning second term students of the Faculty of Physics. The course covers a wide range of neural networks types, deals with solving various problems, and covers such studies-related tools as TensorFlow, Git, Jupiter. In the second part of the course, students do a practice-oriented coursework with teacher assistance.
+    - Surveillance system - WorldSkills winning project, based on YOLOv4 and SORT tracking
+    - Skincare Telegram Bot - A bot for the telegram which can analyze your skin conditions and advice you skincare products which you need, based on TensorFlow for a dialog processing
+    - Autonomous navigation algorithm for the following robot - University graduating project, based on ROS, allow a robot to follow the particular person with using object detection & tracking, gestures recongition, path planning algorithms, etc.
+    - EMG Sensors - Electo-MyoGraphy sensors for the prostheses and overall control systems application
+    
+    
+* ### Open-Source projects
 
-# <a id="projects" href="#projects">🧩 Open source projects</a>
-
-* **[PulchraBookmarks](https://chrome.google.com/webstore/detail/pulchra-bookmarks/pknkgclggganidoalifaagfjikhcdolb)** - Chrome extension for newtab
-* **[Sessiya Bot](https://github.com/Annndruha/sessiyabot)** - VKontakte Chat-bot for students
-* **[Music Files Normalizer](https://github.com/Annndruha/music_files_normalizer)** - Program for mass correction of .mp3 file names
-* **[EPC-MSU/epdetection](https://github.com/EPC-MSU/epdetection)** - Module to detect PCB components by neural network
-
-# <a id="location" href="https://goo.gl/maps/m7Bz45zYJbsB7d8s6">✈️ Where I am now?</a>
-
-Next flights:
-
-<a href="https://my.flightradar24.com/AMarakulin"><img src="https://banners-my.flightradar24.com/AMarakulin-future.png" alt="My Flightdiary.net profile" /></a>
+    - [E-Board Receiver]() - The firmware for the receiver in the DIY electric longboard based on STM32 and NRF24L01+
