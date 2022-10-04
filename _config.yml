@@ -9,7 +9,7 @@ language: Russian, English
 
 show_contacts: true
 mailto: mailto:konstantinov.py@gmail.com
-cv_pdf_link: https://raw.githubusercontent.com/AwesomeAlexey/AwesomeAlexey.github.io/main/pdf/cv_pdf.pdf
+cv_pdf_link: https://raw.githubusercontent.com/AwesomeAlexey/AwesomeAlexey.github.io/main/pdf/Konstantinov_Alexey.pdf
 
 remote_theme: annndruha/minimal-resume
 plugins:
