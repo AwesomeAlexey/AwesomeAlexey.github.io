@@ -1,13 +1,15 @@
 # <a id="education" href="#education">🎓 Education</a>
 
-* ### Peter the Great St.Petersburg Polytechnic University
+* ### Peter the Great St.Petersburg Polytechnic University (2018 - 2022)
     (Saint-Petersburg) Mechatronics and Robotics, Autonomous robots
 
-* ### Sirius University of Science and Technology
+    Bachelor degree, GPA = 4.8
+
+* ### Sirius University of Science and Technology (2022 - 2024)
     (Sochi) Mathematical Robotics and Artificial Intelligence
 
-# <a id="skills" href="#skills">🛠️ Skills</a>
 
+# <a id="skills" href="#skills">🛠️ Skills</a>
 
 * ### Python, C++, C
 
@@ -40,12 +42,12 @@
 
 
 
-* ### CAD & CNC, Electrionics, PCB developing
+* ### CAD & CNC, Electronics, PCB developing
 
     3D-modeling and 3D-printing, Laser cutting, Milling, Practical skills
 
 
-# <a id="works" href="#works">👨🏻‍💻 Work experience</a>
+# <a id="jobs" href="#jobs">👨🏻‍💻 Work experience</a>
 
 
 * ### Tutor of C++ & Python programming languages
@@ -66,15 +68,40 @@
 
     *Youth Project Activity Center "FabLab Polytech" (St.-Petersburg)*
 
-    Tutor of programming STM32 microcontrollers, 3D-Modeling and 3D-printing, Theoretical mechanics for BioMechanic applications for university students, participating competitions (such as WorldSkills), etc.
-    
+    Tutor of programming STM32 & Arduino microcontrollers, 3D-Modeling and 3D-printing, 
+Theoretical mechanics for BioMechanic applications for university students, 
+participating competitions (such as WorldSkills), etc.
+
 
 * ### Python Developer
     
     *Freelance*
     
     Developing a Python-based projects, such as CV projects, chat-bots, etc.
-    
+
+
+* ### Developer of the robots concept
+  
+    *PALFINGER AG*
+
+    Developing a concept of the snake-like robot works as an articulated sling.
+Developing the bending mechanisms, overall system architecture and computer vision.
+
+
+# <a id="other_expirience" href="#other_expirience">🏂 Other experience</a>
+
+* ### Volunteers coordinator and events organizer
+    Coordinator in St.-Petersburg City volunteering center, coordinating teams of 
+volunteers from 5 to 30-40 people on such events as EURO2020, Red Sails, IRONMAN Triathlon, etc.
+
+* ### Head of the Students union 'PolyMakers'
+    Head of the students union 'PolyMakers' in the
+Peter the Great St.-Petersburg Polytechnic University based - taking care of organizing events, communicating 
+with the administration, and leading the union members
+
+* ### Sportsman
+    Climbing, snowboarding, table tennis, also yoga, free-diving and general fitness.
+
 
 # <a id="projects" href="#projects">🧩 Projects</a>
 
@@ -88,4 +115,4 @@
     
 * ### Open-Source projects
 
-    - [E-Board Receiver]() - The firmware for the receiver in the DIY electric longboard based on STM32 and NRF24L01+
+    - [E-Board Receiver](https://github.com/AwesomeAlexey/Longboard-Receiver/) - The firmware for the receiver in the DIY electric longboard based on STM32 and NRF24L01+
