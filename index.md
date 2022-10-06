@@ -7,7 +7,7 @@
 * ### Sirius University of Science and Technology (2022 - 2024)
     (Sochi) Mathematical Robotics and Artificial Intelligence
 
-
+___
 # <a id="skills" href="#skills">🛠️ Skills</a>
 
 * ### Python, C++, C
@@ -45,7 +45,7 @@
 
     3D-modeling and 3D-printing, Laser cutting, Milling, Practical skills
 
-
+___
 # <a id="jobs" href="#jobs">👨🏻‍💻 Work experience</a>
 
 
@@ -86,7 +86,7 @@ participating competitions (such as WorldSkills), etc.
     Developing a concept of the snake-like robot works as an articulated sling.
 Developing the bending mechanisms, overall system architecture and computer vision.
 
-
+___
 # <a id="other_expirience" href="#other_expirience">🏂 Other experience</a>
 
 * ### Volunteers coordinator and events organizer
@@ -101,7 +101,7 @@ with the administration, and leading the union members
 * ### Sportsman
     Climbing, snowboarding, table tennis, also yoga, free-diving and general fitness.
 
-
+___
 # <a id="projects" href="#projects">🧩 Projects</a>
 
 * ### Closed-Source projects (can be discussed on the interview)
