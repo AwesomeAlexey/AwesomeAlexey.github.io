@@ -1,4 +1,4 @@
-# Resume (CV) site. [Example](https://cv.annndruha.space/)
+# Resume (CV) site. [Example](https://cv.awesomealexey.space/)
 
 Launch your resume site without server on github pages! Only need a domain.
 
@@ -23,7 +23,7 @@ Launch your resume site without server on github pages! Only need a domain.
 
     show_contacts: true
     mailto: mailto:konstantinov.py@gmail.com
-    cv_pdf_link: https://raw.githubusercontent.com/AwesomeAlexey/AwesomeAlexey.github.io/main/pdf/cv_pdf.pdf
+    cv_pdf_link: https://raw.githubusercontent.com/AwesomeAlexey/AwesomeAlexey.github.io/main/pdf/Awesome_Alexey.pdf
 
     remote_theme: annndruha/minimal-resume
     plugins:
@@ -37,4 +37,4 @@ Launch your resume site without server on github pages! Only need a domain.
 
 This site required pages theme [minimal-resume](https://github.com/Annndruha/minimal-resume) which is in the [_config.yml](./_config.yml) as remote_theme.
 
-Site hasn't got a pdf converter, hand update file [cv_pdf.pdf](./pdf/cv_pdf.pdf) and [assets/images/photo.png](./assets/images/photo.png)
+Site hasn't got a pdf converter, hand update file [*.pdf](./pdf/*.pdf) and [assets/images/photo.jpg](./assets/images/photo.jpg)
