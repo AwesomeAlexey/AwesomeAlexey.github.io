@@ -1,8 +1,7 @@
 # <a id="education" href="#education">🎓 Education</a>
 
 * ### Peter the Great St.Petersburg Polytechnic University (2018 - 2022)
-    (Saint-Petersburg) Mechatronics and Robotics, Autonomous robots
-
+    (Saint-Petersburg) Mechatronics and Robotics, Autonomous robots\
     Bachelor degree, GPA = 4.8
 
 * ### Sirius University of Science and Technology (2022 - 2024)
