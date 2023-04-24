@@ -13,14 +13,13 @@ ___
 * ### Python, C++, C
 
     Main programming languages
-    
 
 * ### Computer vision, OpenCV, YOLO
 
     Object detection, Stereo vision, Structure-from-motion, etc.
     
     
-* ### TensorFlow, Deep Learning, Machine Learning
+* ### TensorFlow, PyTorch, Deep Learning, Machine Learning
 
     CV applications, Natural language processing, etc.
 
@@ -48,20 +47,30 @@ ___
 ___
 # <a id="jobs" href="#jobs">👨🏻‍💻 Work experience</a>
 
+* ### Python/C++ Developer
+  
+    *Yandex Practicum*
 
-* ### Tutor of C++ & Python programming languages
+    Developing tests for the courses, managing CI in GitHub, developing special utilities.
 
-    *Freelance*
-    
-    Teaching the students (high-school students, university students and graduates) a programming languages from zero to hero, project assistance and support.
-    
-    
+* ### Developer of the robot's concept
+  
+    *PALFINGER AG*
+
+    Developing a concept of the snake-like robot works as an articulated sling.
+Developing the bending mechanisms, overall system architecture and computer vision.
+
 * ### Embedded systems developer
 
     *Freelance*
     
     Developing a firmware for such devices as radio transceivers, special equipment, control systems etc.
 
+* ### Tutor of C++ & Python programming languages
+
+    *Freelance*
+    
+    Teaching the students (high-school students, university students and graduates) a programming languages from zero to hero, project assistance and support.
     
 * ### Team-Lead in FabLab
 
@@ -78,16 +87,12 @@ participating competitions (such as WorldSkills), etc.
     
     Developing a Python-based projects, such as CV projects, chat-bots, etc.
 
-
-* ### Developer of the robots concept
-  
-    *PALFINGER AG*
-
-    Developing a concept of the snake-like robot works as an articulated sling.
-Developing the bending mechanisms, overall system architecture and computer vision.
-
 ___
 # <a id="other_expirience" href="#other_expirience">🏂 Other experience</a>
+
+* ### President of the Student Senate
+
+  Sirius University
 
 * ### Volunteers coordinator and events organizer
     Coordinator in St.-Petersburg City volunteering center, coordinating teams of 
@@ -106,6 +111,7 @@ ___
 
 * ### Closed-Source projects (can be discussed on the interview)
 
+    - Estimating a tennis ball trajectory using the only one static camera to teach manipulators play tennis
     - Surveillance system - WorldSkills winning project, based on YOLOv4 and SORT tracking
     - Skincare Telegram Bot - A bot for the telegram which can analyze your skin conditions and advice you skincare products which you need, based on TensorFlow for a dialog processing
     - Autonomous navigation algorithm for the following robot - University graduating project, based on ROS, allow a robot to follow the particular person with using object detection & tracking, gestures recongition, path planning algorithms, etc.
