@@ -115,7 +115,7 @@ ___
     - Surveillance system - WorldSkills winning project, based on YOLOv4 and SORT tracking
     - Skincare Telegram Bot - A bot for the telegram which can analyze your skin conditions and advice you skincare products which you need, based on TensorFlow for a dialog processing
     - Autonomous navigation algorithm for the following robot - University graduating project, based on ROS, allow a robot to follow the particular person with using object detection & tracking, gestures recongition, path planning algorithms, etc.
-    - EMG Sensors - Electo-MyoGraphy sensors for the prostheses and overall control systems application
+    - EMG Sensors - Electro-MyoGraphy sensors for the prostheses and overall control systems application
     
     
 * ### Open-Source projects
